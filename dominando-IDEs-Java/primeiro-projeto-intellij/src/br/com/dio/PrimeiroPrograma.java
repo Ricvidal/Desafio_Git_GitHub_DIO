@@ -1,9 +1,12 @@
 package br.com.dio;
 
 import br.com.dio.model.Gato;
+import br.com.dio.model.Livro;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
+
+        Livro livro1 = new Livro();
 
         Gato gato1 = new Gato();
         System.out.println(gato1);
