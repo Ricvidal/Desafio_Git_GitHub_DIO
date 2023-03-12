@@ -1,4 +1,4 @@
-5package br.com.dio.calculadora;
+package br.com.dio.calculadora;
 
 import java.util.Scanner;
 
@@ -9,10 +9,10 @@ public class Calculadora {
 		
 		int a, b;
 		
-		System.out.println("Digite o primeiro número: ");
+		System.out.println("Digite o primeiro número inteiro: ");
 		a = scan.nextInt();
 		
-		System.out.println("Digite o segundo número: ");
+		System.out.println("Digite o segundo número inteiro: ");
 		b = scan.nextInt();
 
 		
