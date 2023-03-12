@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a887bd4a-32eb-4c50-b076-8655f1631c68" name="Changes" comment="" />
+    <list default="true" id="a887bd4a-32eb-4c50-b076-8655f1631c68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dominando-IDEs-Java/primeiro-projeto-intellij/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/dominando-IDEs-Java/primeiro-projeto-intellij/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/luquinhas/Documentos/Workspace/Desafio_Git_GitHub_DIO/dominando-IDEs-Java/primeiro-projeto-intellij"
+    "last_opened_file_path": "/home/luquinhas/Documentos/Workspace/Desafio_Git_GitHub_DIO"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
