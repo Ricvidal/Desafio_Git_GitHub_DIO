@@ -9,7 +9,7 @@ public class AtividadeDioJava {
 		
 		
 		Gato gato1 = new Gato("Pichano", "pardo", 1);
-		
+		System.out.println(gato1);
 		System.out.println("O Nome do gato é: "+ gato1.getNome());
 		System.out.println(gato1.toString());
 		
